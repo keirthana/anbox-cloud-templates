@@ -4,7 +4,7 @@ This repository provides a collection of standard templates that can be reused w
 
 ## Usage
 
-To use the templates available in this repository, you can copy the individual templates that you require or clone this repository to use it out of the box.
+To use the templates available in this repository, copy the templates to your repository and fill them with the relevant information pertaining to your repository.
 
 ## Contributing guidelines
 
