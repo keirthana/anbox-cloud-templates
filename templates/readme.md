@@ -24,12 +24,12 @@ Include the licensing required for contributing to the repository and the terms 
 For example, if the repository requires a Contributor License Agreement (CLA) to be signed for contributions, include the instructions to sign the same.
 
 ## Contributing guidelines
-Include a link to the following:
-* Contributing guide.
-* How to report a bug
-* How to file an issue
+The Anbox team appreciates your contributions. The following resources help you get started.
+* [Contributing guide](./contributor-guidelines.md)
+* [Report a bug](https://bugs.launchpad.net/anbox-cloud)
 
 ## Next steps
-Include a link to the following:
-* Documentation
-* Contact information
+Explore more with the following resources:
+* [Anbox Cloud documentation](https://anbox-cloud.io/docs)
+* [Contact us](https://anbox-cloud.io/contact-us)
+* < Add links to related repositories >
